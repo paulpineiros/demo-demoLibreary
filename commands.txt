@@ -19,7 +19,4 @@ cd dist
 npm adduser
 
 
-clave npm: ncz_zxq1VTJ4gxj*djm
-
-token: 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
 
