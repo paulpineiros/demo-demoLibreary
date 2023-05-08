@@ -1,0 +1,25 @@
+
+
+ng new demo-demoLibrary --create-application=false
+
+cd demo-demoLibrary
+
+ng generate library button-alert
+
+ng g application demoApp
+
+ng serve
+
+
+
+compilar
+
+npm run build button-alert
+cd dist
+npm adduser
+
+
+clave npm: ncz_zxq1VTJ4gxj*djm
+
+token: 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
+
